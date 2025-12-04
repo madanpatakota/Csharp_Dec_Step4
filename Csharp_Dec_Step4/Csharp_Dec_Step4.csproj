@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CsharpCourse_DataStructures.ArrayListExample</StartupObject>
+    <StartupObject>Csharp_Dec_Step4.HashsetExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,10 @@
   <ItemGroup>
     <Compile Include="1.ArrayExample.cs" />
     <Compile Include="2.ArrayListExample.cs" />
+    <Compile Include="3.List.cs" />
+    <Compile Include="4.Dictionary.cs" />
+    <Compile Include="5.Hashtable.cs" />
+    <Compile Include="6.HashSet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
